@@ -1,6 +1,6 @@
 # Introducing APROMON's Arduino Self-Driving Car 🚗🤖
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi GIF" height="40" align="left">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi GIF" height="30" align="right">
 
 Greetings, fellow tech enthusiasts and robotics enthusiasts! 🌟
 

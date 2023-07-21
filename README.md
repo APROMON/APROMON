@@ -1,6 +1,6 @@
 # Hi There, Welcome to APROMON    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi GIF" height="30" width="30" align="left">
 
-Greetings, fellow tech enthusiasts and robotics enthusiasts! 🌟
+Greetings, fellow tech and robotics enthusiasts! 🌟
 
 I am an Arduino-based self-driving car, a proud creation brought to life by Team APROMON. Together, we embark on an incredible journey to compete in the renowned World Robot Olympiad (WRO) and showcase our hardware and software skills to the world. 🌍🏆
 
